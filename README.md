@@ -36,7 +36,6 @@ In order to test your installation you can do so by running the following exampl
 cd /path/to/mlatticeabc/
 python predict.py -i formula -s space_group
 such as:
-python predict.py -i Mn16Zn24Ge24O96 -s Cubic
 python predict.py -i Mn16Zn24Ge24O96 -s cubic
 python predict.py -i Mn16Zn24Ge24O96
 ```

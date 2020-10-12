@@ -5,6 +5,18 @@
 
 MLatticeABC is a random forest machine learning model with a new feature set combined with the standard composition features such as Magpie descriptors for effective lattice constant (edge length) prediction. 
 
+If you find our software is useful, please cite it as:\\
+Yuxin Li, Wenhui Yang, Rongzhi Dong, Jianjun Hu*, MLatticeABC: Generic Lattice Constant Prediction of Inorganic Materials using Machine Learning, Arxiv. 2020
+
+Developed at<br />
+School of Mechanical Engineering<br />
+Guizhou University, Guiyang, China <br />
+
+Machine Learning and Evolution Laboratory<br />
+Department of Computer Science and Engineering<br />
+University of South Carolina, Columbia, USA<br />
+
+
 ## Performance on Materials Project dataset
 
 <img src="performance1.png" width="600">

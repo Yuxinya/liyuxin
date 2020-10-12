@@ -23,8 +23,8 @@ Once you have setup an environment with the correct dependencies you can install
 
 ```bash
 conda activate mlatticeabc
-git clone https://github.com/mlatticeabc
-cd mlatticeabc
+git clone https://github.com/https://github.com/Yuxinya/liyuxin
+cd liyuxin
 pip install -e .
 ```
 

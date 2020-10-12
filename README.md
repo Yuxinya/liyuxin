@@ -45,3 +45,14 @@ such as:
 python predict.py -i Mn16Zn24Ge24O96 -s cubic
 python predict.py -i Mn16Zn24Ge24O96
 ```
+
+The following cyrstal_system values are accepted
+```
+crystal     # crystal system unknown.
+hexagonal
+trigonal
+tetragonal
+orthorhombic
+monoclinic
+triclinic
+```

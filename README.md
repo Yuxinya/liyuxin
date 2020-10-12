@@ -61,6 +61,7 @@ python predict.py -i Mn16Zn24Ge24O96
 The following cyrstal_system values are accepted
 ```
 crystal     # crystal system unknown.
+cubic
 hexagonal
 trigonal
 tetragonal

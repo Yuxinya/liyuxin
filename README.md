@@ -1,4 +1,4 @@
-# MLatticeABC: Machine learning for crystal lattice constant (a,b,c) prediction
+## MLatticeABC: Machine learning for crystal lattice constant (a,b,c) prediction
 
 
 ## Premise

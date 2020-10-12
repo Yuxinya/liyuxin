@@ -7,7 +7,7 @@ MLatticeABC is a random forest machine learning model with a new feature set com
 
 ## Performance on Materials Project dataset
 
-<img src="performance.png" width="400">
+<img src="performance1.png" width="400">
 
 ## Environment Setup
 

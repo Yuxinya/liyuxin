@@ -5,6 +5,10 @@
 
 MLatticeABC is a random forest machine learning model with a new feature set combined with the standard composition features such as Magpie descriptors for effective lattice constant (edge length) prediction. 
 
+## Performance on Materials Project dataset
+
+<img src="performance.jpg" width="400">
+
 ## Environment Setup
 
 To use `MLatticeABC` you need to create an environment with the correct dependencies. Using `Anaconda` this can be accomplished with the follow commands:

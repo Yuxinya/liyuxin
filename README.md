@@ -19,7 +19,7 @@ University of South Carolina, Columbia, USA<br />
 
 ## Performance on Materials Project dataset
 
-<img src="performance1.png" width="600">
+<img src="performance1.png" width="800">
 
 ## Environment Setup
 

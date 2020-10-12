@@ -1,4 +1,4 @@
-# MLatticeABC
+# MLatticeABC: Machine learning for crystal lattice constant (edge lengths) prediction
 
 
 ## Premise

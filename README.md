@@ -39,7 +39,7 @@ In order to test your installation you can do so by running the following exampl
 
 ```sh
 cd /path/to/liyuxin/
-python predict.py -i formula -s crystal_system
+python predict.py -i full_formula -s crystal_system
 
 such as:
 python predict.py -i Mn16Zn24Ge24O96 -s cubic

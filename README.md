@@ -35,11 +35,12 @@ pip install -e .
 Pre-trained models are stored in google drive. Download the file `model.zip` from from the [drive](https://drive.google.com/file/d/1rIdu_ZvhQ5iGQkrSY5Uh3yLH_L1uel4U/view?usp=sharing). After downing the file copy it to `liyuxin` and extract it. the folder of `Model` should be in the `liyuxin` directory after the extraction is completed.
 ## Example Use
 
-In order to test your installation you can do so by running the following example from the top of your `mlatticeabc` directory:
+In order to test your installation you can do so by running the following example from your `mlatticeabc` directory:
 
 ```sh
 cd /path/to/liyuxin/
 python predict.py -i formula -s crystal_system
+
 such as:
 python predict.py -i Mn16Zn24Ge24O96 -s cubic
 python predict.py -i Mn16Zn24Ge24O96

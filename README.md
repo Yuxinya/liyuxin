@@ -17,7 +17,7 @@ pip install matminer
 pip install scikit-learn==0.23.1
 ```
 
-## Roost Setup
+## MLatticeABC Setup
 
 Once you have setup an environment with the correct dependencies you can install `mlatticeabc` using the following commands:
 

@@ -34,7 +34,7 @@ Pre-trained models are stored in google drive. Download the file `model.zip` fro
 In order to test your installation you can do so by running the following example from the top of your `mlatticeabc` directory:
 
 ```sh
-cd /path/to/mlatticeabc/
+cd /path/to/liyuxin/
 python predict.py -i formula -s space_group
 such as:
 python predict.py -i Mn16Zn24Ge24O96 -s cubic

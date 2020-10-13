@@ -69,7 +69,7 @@ orthorhombic
 monoclinic
 triclinic
 ```
-|             |                |               |             |             |             |
+|Crystal system|train set size  |  test set size |      a       |    b         |       c      |
 |-------------|----------------|---------------|-------------|-------------|-------------|
 Cubic         | 16492          | 1833          | 0.979±0.016 |             |             | 
 Hexagonal     | 8318           | 925           | 0.892±0.019 |             | 0.760±0.061 |

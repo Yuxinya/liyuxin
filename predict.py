@@ -56,11 +56,11 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('-i','--formula',  type=str, 
                         help="The input crystal formula.")
-    parser.add_argument('-s','--cubic_system',  type=str, default='crystal',
-                        help="The input cubic system.")
+    parser.add_argument('-s','--crystal_system',  type=str, default='crystal',
+                        help="The input crystal system.")
     args = parser.parse_args()
     form = args.formula
-    system = args.cubic_system
+    system = args.crystal_system
     ext_magpie = generate(form)
     m = mlmd(form)
     result = ext_magpie.join(m)
